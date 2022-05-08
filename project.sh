@@ -1,1 +1,2 @@
-This is jenkins project
+#!/bin/sh
+echo "This is jenkins project"
